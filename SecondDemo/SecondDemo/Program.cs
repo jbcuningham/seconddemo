@@ -16,6 +16,7 @@ namespace SecondDemo
             Console.WriteLine("This is the third feature of my project.");
 
         //This is just feature 3
+        //This is just feature 2
         }
     }
 }
