@@ -12,7 +12,10 @@ namespace SecondDemo
         {
 
             Console.WriteLine("This is the first feature of my project.");
-            Console.WriteLine("This is the second feature of my project.");
+            Console.WriteLine("This is the second feature of my project. With second changes");
+            Console.WriteLine("This is the third feature of my project.");
+
+        //This is just feature 3
         }
     }
 }
