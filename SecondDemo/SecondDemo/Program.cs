@@ -12,6 +12,7 @@ namespace SecondDemo
         {
 
             Console.WriteLine("This is the first feature of my project.");
+            Console.WriteLine("This is the second feature of my project.");
         }
     }
 }
